@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello, World! 👋
+Welcome to my GitHub! My name is Miguel, and I'm a student of Systems Engineering and Computer Science. I'm passionate about backend development, and I have knowledge in Java, MySQL, and SpringBoot.
 
-<!--
-**yaspercode/Yaspercode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently, I'm learning Backend at ATL Academy Bootcamp.
+- 📫 You can reach me on [LinkedIn](link to your LinkedIn profile).
+
+### Languages and Technologies:
+<p align="left">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+</p>
+
+### GitHub Statistics:
+
+![Miguel Mallqui GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaspercode&show=reviews)
+
+Thank you for visiting my profile!
+
